@@ -1,0 +1,9 @@
+#include<iostream>
+#include<stdlib.h>
+#include<windows.h>
+int main(int argc, char **argv)
+{
+cout<<"hello world"<<endl;
+return 0;
+system("pause");
+}
